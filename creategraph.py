@@ -5,7 +5,7 @@ import requests
 
 from io import StringIO
 
-def generateimg:
+def generateimg():
 
   print('paste values or pass empty field to request from web server: http://ha123blix.eu.pythonanywhere.com/')
   val = ""
